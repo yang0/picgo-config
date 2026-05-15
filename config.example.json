@@ -1,0 +1,17 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": "your-smms-token"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "enable": true,
+      "key": "CommandOrControl+Shift+P"
+    },
+    "autoStart": false,
+    "logLevel": "info"
+  }
+}
